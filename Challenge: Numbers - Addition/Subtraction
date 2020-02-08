@@ -1,0 +1,9 @@
+// ADD CODE BELOW
+let birthYear = 1991;
+let age = 28;
+let in10Yrs = age + 10;
+
+// Uncomment these to check your work!
+console.log(birthYear);
+console.log(age);
+console.log(in10Yrs);
