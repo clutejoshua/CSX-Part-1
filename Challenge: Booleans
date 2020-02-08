@@ -1,0 +1,10 @@
+let iHaveChanged = false;
+
+// ADD CODE BELOW
+iHaveChanged = true;
+let iLoveCoding = true;
+let codingIsTooHard = false;
+
+console.log(iHaveChanged)
+console.log(iLoveCoding)
+console.log(codingIsTooHard)
