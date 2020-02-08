@@ -8,7 +8,7 @@ let isSmaller = small < large;
 const num = 45;
 const string = "45";
 // ADD CODE BELOW (isLooselyEqual and isStrictlyEqual)
-let isLosselyEqual = num == string;
+let isLooselyEqual = num == string;
 let isStrictlyEqual = num === string;
 
 // 3.
